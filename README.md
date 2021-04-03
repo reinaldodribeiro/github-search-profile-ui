@@ -23,5 +23,4 @@ yarn serve
 
 ## Abaixo um vídeo demonstrando o sistema funcionando.
 
-https://user-images.githubusercontent.com/49046419/113468549-245d7880-941d-11eb-832a-56ab496334af.mp4
-
+![Alt text](https://user-images.githubusercontent.com/49046419/113468549-245d7880-941d-11eb-832a-56ab496334af.mp4)
