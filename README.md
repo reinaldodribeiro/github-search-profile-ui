@@ -22,4 +22,4 @@ yarn serve
 ```
 
 ## Abaixo um vídeo demonstrando o sistema funcionando.
-[![Watch the video]()](https://user-images.githubusercontent.com/49046419/113468549-245d7880-941d-11eb-832a-56ab496334af.mp4)
+[![Watch the video](https://github.com/reinaldodribeiro/github-search-profile-ui/blob/main/video/imagem.PNG)](https://user-images.githubusercontent.com/49046419/113468549-245d7880-941d-11eb-832a-56ab496334af.mp4)
